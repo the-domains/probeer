@@ -1,0 +1,28 @@
+name: probeer
+favicon: null
+layout_spectrum: 0.07960453722625971
+typography_spectrum: 0.5029259216971695
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7775536293629557
+  lightness: 0.1672702948562801
+  saturation: 0.6838689467404038
+  rhythmicContrast: 0.3740676245652139
+purpose: []
